@@ -1,0 +1,25 @@
+var enumcom_1_1ecopaynet_1_1ecoa10_1_1_error =
+[
+    [ "Error", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a0b42e743546729c309ec71be1b6d1942", null ],
+    [ "getCode", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#aee1826293568a3bdc99e8a014d6685a1", null ],
+    [ "getMessage", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a8b26bb7a034cfbce91c905f71818d3e1", null ],
+    [ "CANCELLED", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#adb90bf2e44cb6719dec613c4942d3527", null ],
+    [ "DEVICE_INCORRECT_DATA", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a11016c8eaec9cb3e8d7babc994b318e8", null ],
+    [ "DEVICE_NOT_INITIALIZED", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a21e012ab5c480eafa5abd88ed6999d9a", null ],
+    [ "DEVICE_NOT_OPERATING", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a345c4dfbb2cfb273eefd7789df278f74", null ],
+    [ "DEVICE_OPERATION_CANCELLED", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a3a777a2367266cb455a61dfbf1b808a7", null ],
+    [ "DEVICE_PROTOCOL_ERROR", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a1305b1e39d5a463f084efaf8c5da548e", null ],
+    [ "DEVICE_UNABLE_TO_COMMUNICATE", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#aae1260896e8f4f46cac265b0422d0800", null ],
+    [ "DEVICE_UPDATE_FAILED", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a20f9b136a53df45cf9d113b1c583558e", null ],
+    [ "DEVICE_UPDATE_NEEDED", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#aded13231ae160c901f00a366c3039e33", null ],
+    [ "HOST_PROTOCOL_CONNECTING_TO_HOST", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a0f9ebc2210df6622451ef5e61b8dbbf9", null ],
+    [ "HOST_PROTOCOL_PARSING_OUTPUT_DATA", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a26c6ad2cff3dc21d8acb2cd006c2a0f4", null ],
+    [ "HOST_PROTOCOL_PROCESSING_INPUT_DATA", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a25ee02df201dd3aed074c6a534d8e122", null ],
+    [ "HOST_PROTOCOL_RECEIVING_OUTPUT_FRAME", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a79273487f88cfcefde69e0050d698579", null ],
+    [ "HOST_PROTOCOL_SENDING_INPUT_FRAME", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a1bbc25e7dfaffe265706c0778f1b6a65", null ],
+    [ "INVALID_BOX", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#aabd9925c0f9f8b02d68f0ac82e5f17ab", null ],
+    [ "INVALID_CARD", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a5e8ab541aefa83bad1983bb3a78c3489", null ],
+    [ "UNMANAGED_ERROR", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a1b819891d9ccbb020d138a416d2959c1", null ],
+    [ "UPDATE_PROTOCOL_CONNECTING_TO_HOST", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#aca4a7403d121328513a442a3419ce0b7", null ],
+    [ "UPDATE_PROTOCOL_PERFORMING_PROTOCOL", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html#a2e903ad44fea96ce4bb70910983ee3c3", null ]
+];
