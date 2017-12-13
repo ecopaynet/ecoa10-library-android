@@ -4,7 +4,8 @@ var hierarchy =
     [ "com.ecopaynet.ecoa10.Currency", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_currency.html", null ],
     [ "com.ecopaynet.ecoa10.Device", "classcom_1_1ecopaynet_1_1ecoa10_1_1_device.html", [
       [ "com.ecopaynet.ecoa10.DeviceBluetooth", "classcom_1_1ecopaynet_1_1ecoa10_1_1_device_bluetooth.html", null ],
-      [ "com.ecopaynet.ecoa10.DeviceSerial", "classcom_1_1ecopaynet_1_1ecoa10_1_1_device_serial.html", null ]
+      [ "com.ecopaynet.ecoa10.DeviceSerial", "classcom_1_1ecopaynet_1_1ecoa10_1_1_device_serial.html", null ],
+      [ "com.ecopaynet.ecoa10.DeviceTcpip", "classcom_1_1ecopaynet_1_1ecoa10_1_1_device_tcpip.html", null ]
     ] ],
     [ "com.ecopaynet.ecoa10.EcoA10", "classcom_1_1ecopaynet_1_1ecoa10_1_1_eco_a10.html", null ],
     [ "com.ecopaynet.ecoa10.Environment", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_environment.html", null ],

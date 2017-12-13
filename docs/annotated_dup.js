@@ -8,6 +8,7 @@ var annotated_dup =
           [ "Device", "classcom_1_1ecopaynet_1_1ecoa10_1_1_device.html", "classcom_1_1ecopaynet_1_1ecoa10_1_1_device" ],
           [ "DeviceBluetooth", "classcom_1_1ecopaynet_1_1ecoa10_1_1_device_bluetooth.html", "classcom_1_1ecopaynet_1_1ecoa10_1_1_device_bluetooth" ],
           [ "DeviceSerial", "classcom_1_1ecopaynet_1_1ecoa10_1_1_device_serial.html", "classcom_1_1ecopaynet_1_1ecoa10_1_1_device_serial" ],
+          [ "DeviceTcpip", "classcom_1_1ecopaynet_1_1ecoa10_1_1_device_tcpip.html", "classcom_1_1ecopaynet_1_1ecoa10_1_1_device_tcpip" ],
           [ "EcoA10", "classcom_1_1ecopaynet_1_1ecoa10_1_1_eco_a10.html", null ],
           [ "Environment", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_environment.html", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_environment" ],
           [ "Error", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error.html", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_error" ],
