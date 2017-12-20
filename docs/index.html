@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo_ecopaynet.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">EcoA10 Library
-   &#160;<span id="projectnumber">v0.9.24</span>
+   &#160;<span id="projectnumber">v0.9.26</span>
    </div>
   </td>
  </tr>
@@ -85,9 +85,17 @@ Prerequisites</h1>
 <li>USB Host port (if communicate with serial port terminals is needed). USB OTG dongle also can be used.</li>
 </ul>
 <p>EcoA10 and the "Getting Started" project are made with Android Studio.</p>
+<h1><a class="anchor" id="sec_dependencies"></a>
+Dependencies</h1>
+<p>EcoA10 needs the next dependencies added to the project to work:</p><ul>
+<li>com.android.support:appcompat-v7</li>
+<li>com.android.support.constraint:constraint-layout</li>
+<li>com.squareup.retrofit2:retrofit</li>
+<li>com.squareup.retrofit2:converter-gson</li>
+</ul>
 <h1><a class="anchor" id="sec_installation"></a>
 Installation</h1>
-<p>EcoA10 come's in an Android Java Library (AAR) format. This format can integrated on the Android project. We recommend the use of the Android Studio IDE.</p>
+<p>EcoA10 come's in an Android Java Library (AAR) format. This format can integrated on the Android project. We recommend the use of the Android Studio 3.0.</p>
 <p>Steps to integrate the EcoA10 library on your Android Studio project:</p><ol type="1">
 <li>Open your Android Studio project</li>
 <li>Once it's opened, go to menu "File" -&gt; "New" -&gt; "New Module..." <div class="image">
@@ -115,6 +123,10 @@ Installation</h1>
 </div>
  </li>
 <li>Click "OK" on the opened "Project Structure" window.</li>
+<li>Add the required dependencies to the "dependencies" section in the "build.gradle" file of the application module. <div class="image">
+<img src="installation_step_9.jpg" alt="installation_step_9.jpg"/>
+</div>
+ </li>
 </ol>
 <p>Once this steps are done and Gradle Sync has finished integrating EcoA10 on your project, you will be able to call any method of the EcoA10 Library.</p>
 <h1><a class="anchor" id="sec_getting_started"></a>

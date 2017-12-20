@@ -20,6 +20,13 @@ EcoA10 needs the next prerequisites to work:
  - Internet connectivity (GPRS, Wifi, Ethernet...).
  - Bluetooth capabilities (if communicate with bluetooth terminals is needed).
  - USB Host port (if communicate with serial port terminals is needed). USB OTG dongle also can be used.
+ 
+## Dependencies
+EcoA10 needs the next dependencies added to the project to work:
+ - com.android.support:appcompat-v7
+ - com.android.support.constraint:constraint-layout
+ - com.squareup.retrofit2:retrofit
+ - com.squareup.retrofit2:converter-gson
 
 ## Installation
 EcoA10 come's in an Android Java Library (AAR) format. This format can integrated on the Android project. We recommend the use of the Android Studio IDE.
@@ -33,6 +40,7 @@ Steps to integrate the EcoA10 library on your Android Studio project:
  6. Select your application project, click the "+" button and select the "Module dependency" option.	
  7. Choose the "com.ecopaynet.ecoa10" module and click "OK".	
  8. Click "OK" on the opened "Project Structure" window.
+ 9. Add the required dependencies to the "dependencies" section in the "build.gradle" file of the application module.
 
 Once this steps are done and Gradle Sync has finished integrating EcoA10 on your project, you will be able to call any method of the EcoA10 Library.
 	

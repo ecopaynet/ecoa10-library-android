@@ -3,6 +3,7 @@ var NAVTREE =
   [ "EcoA10 Library", "index.html", [
     [ "Introduction", "index.html#sec_introduction", null ],
     [ "Prerequisites", "index.html#sec_prerequisites", null ],
+    [ "Dependencies", "index.html#sec_dependencies", null ],
     [ "Installation", "index.html#sec_installation", null ],
     [ "Getting Started", "index.html#sec_getting_started", null ],
     [ "Deprecated List", "deprecated.html", null ],
