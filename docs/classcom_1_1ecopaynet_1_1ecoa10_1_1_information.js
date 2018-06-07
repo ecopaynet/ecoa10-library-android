@@ -10,8 +10,9 @@ var classcom_1_1ecopaynet_1_1ecoa10_1_1_information =
     [ "deviceModelName", "classcom_1_1ecopaynet_1_1ecoa10_1_1_information.html#ab94a3bf9e4d2d2d96eebcf244298dd4e", null ],
     [ "deviceName", "classcom_1_1ecopaynet_1_1ecoa10_1_1_information.html#a2dac7ff7b708d12e5dd9511a01176215", null ],
     [ "deviceSerialNumber", "classcom_1_1ecopaynet_1_1ecoa10_1_1_information.html#a4d575a67330eda3a90d682080a09ccac", null ],
+    [ "deviceSoftwareName", "classcom_1_1ecopaynet_1_1ecoa10_1_1_information.html#a96770781ec68957d292e36e2499500d6", null ],
+    [ "deviceSoftwareVersion", "classcom_1_1ecopaynet_1_1ecoa10_1_1_information.html#ad1b44b6c0d325d4df1457e532f654437", null ],
     [ "deviceType", "classcom_1_1ecopaynet_1_1ecoa10_1_1_information.html#a32c7e7e1c4fe9c87bfda2fa049548c2e", null ],
-    [ "deviceVersion", "classcom_1_1ecopaynet_1_1ecoa10_1_1_information.html#a4f8bcaef1c954f4248e33afe80bff1f9", null ],
     [ "environment", "classcom_1_1ecopaynet_1_1ecoa10_1_1_information.html#a4a03b0f141079c5e3a5cf42138d6cf7d", null ],
     [ "status", "classcom_1_1ecopaynet_1_1ecoa10_1_1_information.html#a4f7ed3aedd318af1d9503dca06fa712e", null ]
 ];

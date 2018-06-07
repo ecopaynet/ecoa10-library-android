@@ -14,8 +14,10 @@ var hierarchy =
     [ "com.ecopaynet.ecoa10.ExtraParameters", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_extra_parameters.html", null ],
     [ "com.ecopaynet.ecoa10.Information", "classcom_1_1ecopaynet_1_1ecoa10_1_1_information.html", null ],
     [ "com.ecopaynet.ecoa10.Events.Initialization", "interfacecom_1_1ecopaynet_1_1ecoa10_1_1_events_1_1_initialization.html", null ],
+    [ "com.ecopaynet.ecoa10.ExtraParameters.InitializationDeviceChangeValidationType", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_extra_parameters_1_1_initialization_device_change_validation_type.html", null ],
     [ "com.ecopaynet.ecoa10.Events.Log", "interfacecom_1_1ecopaynet_1_1ecoa10_1_1_events_1_1_log.html", null ],
     [ "com.ecopaynet.ecoa10.LogLevel", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_log_level.html", null ],
+    [ "com.ecopaynet.ecoa10.ExtraParameters.RefundType", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_extra_parameters_1_1_refund_type.html", null ],
     [ "com.ecopaynet.ecoa10.TransactionResult.Result", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_result_1_1_result.html", null ],
     [ "SignatureView", null, [
       [ "com.ecopaynet.ecoa10.SignatureView", "classcom_1_1ecopaynet_1_1ecoa10_1_1_signature_view.html", null ]
