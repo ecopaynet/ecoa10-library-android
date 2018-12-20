@@ -11,6 +11,8 @@ var classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_request_signature_informatio
     [ "commerceAddress", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_request_signature_information.html#ac5f6557de94fc834514b043238319ba8", null ],
     [ "commerceName", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_request_signature_information.html#aa70bd25bc3757364c0a3f147b4554d56", null ],
     [ "commerceNumber", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_request_signature_information.html#aab480861d072ccb962a2555cf66289d6", null ],
+    [ "commerceProvince", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_request_signature_information.html#a9e6e727db730843eb1bcc0c044453083", null ],
+    [ "commerceTown", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_request_signature_information.html#a1d8a63ee1e5756415021ec58a7d4ccee", null ],
     [ "currency", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_request_signature_information.html#af627b3eaa415a352a9d102972a366d84", null ],
     [ "datetime", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_request_signature_information.html#a2485e3f1c11aa10466c71e76e94e82fb", null ],
     [ "isVISAContactless", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_request_signature_information.html#abd08528e16c455d8d5146d1c795e4a2a", null ],
