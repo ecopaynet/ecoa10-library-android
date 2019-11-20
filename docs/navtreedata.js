@@ -46,7 +46,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 ".html",
-"enumcom_1_1ecopaynet_1_1ecoa10_1_1_currency.html#ac25218af32b7b186127a5fa609a7bf30"
+"enumcom_1_1ecopaynet_1_1ecoa10_1_1_currency.html#abfe1717fde543ab2182ab571efcd1e17"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
