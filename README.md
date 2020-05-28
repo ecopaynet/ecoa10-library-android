@@ -23,8 +23,8 @@ EcoA10 needs the next prerequisites to work:
  
 ## Dependencies
 EcoA10 needs the next dependencies added to the project to work:
- - com.android.support:appcompat-v7
- - com.android.support.constraint:constraint-layout
+ - androidx.appcompat:appcompat
+ - androidx.constraintlayout:constraintlayout
  - com.squareup.retrofit2:retrofit
  - com.squareup.retrofit2:converter-gson
 
@@ -33,14 +33,10 @@ EcoA10 come's in an Android Java Library (AAR) format. This format can integrate
 
 Steps to integrate the EcoA10 library on your Android Studio project:
  1. Open your Android Studio project	
- 2. Once it's opened, go to menu "File" -> "New" -> "New Module..."	
- 3. Select "Import .JAR/.AAR Package" and click "Next"	
- 4. On the "File Name:" option select the EcoA10 AAR Library file. You can find it in the "com.ecopaynet.ecoa10" folder of the 	"Getting Started" project. Then click "Finish".	
- 5. When the EcoA10 is integrated on your Android Studio, the next step is to make the reference on your project. To make this, go to "File" -> "Project Structure..."	
- 6. Select your application project, click the "+" button and select the "Module dependency" option.	
- 7. Choose the "com.ecopaynet.ecoa10" module and click "OK".	
- 8. Click "OK" on the opened "Project Structure" window.
- 9. Add the required dependencies to the "dependencies" section in the "build.gradle" file of the application module.
+ 2. Copy the EcoA10 AAR Library file into the "libs" folder of your project
+ 3. Open the project's gradle file
+ 4. Add "*.aar" in the fileTree implementation line. 
+ 5. Add the required dependencies.
 
 Once this steps are done and Gradle Sync has finished integrating EcoA10 on your project, you will be able to call any method of the EcoA10 Library.
 	
