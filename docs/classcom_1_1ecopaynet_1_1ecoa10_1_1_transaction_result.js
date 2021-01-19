@@ -17,6 +17,8 @@ var classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_result =
     [ "commerceTown", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_result.html#a72952fb9161b31c6d9eb1ba9fc485f98", null ],
     [ "currency", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_result.html#a6741cfa087822c3d7472cc862686601a", null ],
     [ "datetime", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_result.html#aae4bf23d1054a162a2dccbf39564606d", null ],
+    [ "dccAmount", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_result.html#abd80688acc4cf3543a09ad1ac8ca2c3a", null ],
+    [ "dccCurrency", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_result.html#a251309aca5c2dce142625a9f40d0642a", null ],
     [ "dccMessage", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_result.html#a8f3c0093abfd8dc5a1365522c0e69c2b", null ],
     [ "deniedCode", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_result.html#a42b8deb8503431ffe6167bcc11881787", null ],
     [ "deniedDescription", "classcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_result.html#af73b43c0dcc8ced9239215db95b31908", null ],

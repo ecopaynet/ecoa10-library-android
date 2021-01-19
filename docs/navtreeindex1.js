@@ -1,6 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"enumcom_1_1ecopaynet_1_1ecoa10_1_1_currency.html#abfe1717fde543ab2182ab571efcd1e17":[6,0,0,0,0,1,147],
 "enumcom_1_1ecopaynet_1_1ecoa10_1_1_currency.html#ac138369e595a1d9f68422ef29da3c6a5":[6,0,0,0,0,1,89],
 "enumcom_1_1ecopaynet_1_1ecoa10_1_1_currency.html#ac1ee1f2a53a827c4a738c945ccd0730b":[6,0,0,0,0,1,134],
 "enumcom_1_1ecopaynet_1_1ecoa10_1_1_currency.html#ac25218af32b7b186127a5fa609a7bf30":[6,0,0,0,0,1,69],

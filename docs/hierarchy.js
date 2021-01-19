@@ -19,7 +19,7 @@ var hierarchy =
     [ "com.ecopaynet.ecoa10.LogLevel", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_log_level.html", null ],
     [ "com.ecopaynet.ecoa10.ExtraParameters.RefundType", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_extra_parameters_1_1_refund_type.html", null ],
     [ "com.ecopaynet.ecoa10.TransactionResult.Result", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_transaction_result_1_1_result.html", null ],
-    [ "SignatureView", null, [
+    [ "com.ecopaynet.ecoa10.api.SignatureView", null, [
       [ "com.ecopaynet.ecoa10.SignatureView", "classcom_1_1ecopaynet_1_1ecoa10_1_1_signature_view.html", null ]
     ] ],
     [ "com.ecopaynet.ecoa10.Status", "enumcom_1_1ecopaynet_1_1ecoa10_1_1_status.html", null ],
